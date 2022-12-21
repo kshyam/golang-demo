@@ -1,4 +1,4 @@
-# Go To Do Demo App for Razorops
+# Go To Do Demo App for Razorops Demo
 
 If you have forked this repo, then connect with Razorops to create your demo pipeline by following the below button
 
